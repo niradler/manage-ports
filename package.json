@@ -20,9 +20,6 @@
     "find-process": "^1.4.2",
     "lodash": "^4.17.15"
   },
-  "directories": {
-    "lib": "lib"
-  },
   "devDependencies": {},
   "description": "Manage open ports, and killed attached process.",
   "repository": {
