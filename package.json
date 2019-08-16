@@ -1,0 +1,21 @@
+{
+  "name": "manage-ports",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nir Adler <niradler55@email.com> (https://niradler.com)",
+  "license": "MIT",
+  "dependencies": {
+    "execa": "^2.0.4",
+    "find-process": "^1.4.2",
+    "lodash": "^4.17.15"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "description": ""
+}
